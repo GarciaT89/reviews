@@ -1,5 +1,5 @@
 <?php
-$snapshotPath = "./snapshot/list.html";
+$snapshotPath = "./snapshot/list.php";
 $applicationPath = "./pages/list.php";
 ?>
 <!doctype html>
